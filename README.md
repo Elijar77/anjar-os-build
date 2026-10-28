@@ -1,8 +1,10 @@
 # ANJAR Portal test app
 
-`ANJAR-Portal-0.3.54.apk` is the Android test build (version 0.3.54, Android versionCode 78, nine languages), built from main commit 30eb274:
-Asystent web answers with sources, Hands-free ("Anjar, …" while the app is open; off until turned on), timers and alarms by voice,
-short sign-up ticks with "Show more", Urdu phone calls (server side), security pass, Receptionist: opening hours, fact sheet, missed calls, call log with notes, STOP for texts.
+`ANJAR-Portal-0.3.54.apk` is the Android test build (version 0.3.54, Android versionCode 79, nine languages), built from branch sekretarka-booking-urgent, commit de07b61:
+Receptionist books callers into free times on the call (first free time, then another day, then two weeks on), puts urgent calls through
+to the owner's phone (20 seconds, press 1), owner name for callers, call log tags, premium-rate and foreign owner phones refused.
+Also everything from versionCode 78: Asystent web answers, Hands-free, timers and alarms, short sign-up ticks, Urdu calls, opening hours, missed calls.
+The new Receptionist switches work once that branch is merged into main (the live server).
 It installs as an update over the earlier 0.3.54 test builds (same key, higher versionCode).
 It is signed with a test key, not the Play Store key. Share it with testers only.
 
