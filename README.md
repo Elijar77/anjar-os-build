@@ -3,11 +3,12 @@
 Download link that always has the newest test build (the same link as before):
 https://github.com/Elijar77/anjar-os-build/raw/portal-app/ANJAR-Portal-0.3.54.apk
 
-Newest test build: version 0.3.57, Android versionCode 83, nine languages, built from commit 720ba88.
+Newest test build: version 0.3.58, Android versionCode 84, nine languages, built from commit a41c3c9.
+New in 0.3.58: the app waits up to 15 seconds for the natural voice (a new line takes about 10 to 12 seconds), so it is really heard.
 New in 0.3.57: the natural voice. Settings > Voice > Natural voice: one switch makes Anjar read replies in a warm, human-sounding
 AI voice in all nine languages instead of the phone's built-in voice. Also in this build (0.3.56): radio and music apps by voice
 ("Anjar, play Capital FM", "play Adele on Spotify", "open YouTube", "stop the radio"; the radio keeps playing with the screen off).
-The same file is also at `ANJAR-Portal-0.3.57.apk`. Earlier builds stay at `ANJAR-Portal-0.3.56.apk` and `ANJAR-Portal-0.3.55.apk`.
+The same file is also at `ANJAR-Portal-0.3.58.apk`. Earlier builds stay at `ANJAR-Portal-0.3.57.apk`, `ANJAR-Portal-0.3.56.apk` and `ANJAR-Portal-0.3.55.apk`.
 (The file name of the old link stays 0.3.54 so the link keeps working; check Settings > About for the real version.)
 It installs as an update over the earlier test builds (same key, higher versionCode).
 It is signed with a test key, not the Play Store key. Share it with testers only.
