@@ -3,7 +3,8 @@
 Download link that always has the newest test build (the same link as before):
 https://github.com/Elijar77/anjar-os-build/raw/portal-app/ANJAR-Portal-0.3.54.apk
 
-Newest test build: version 0.3.65, Android versionCode 91, nine languages, built from commit b37092c.
+Newest test build: version 0.3.66, Android versionCode 92, nine languages, built from commit cb807a1.
+New in 0.3.66: the books (Księgi) are backed up to your account in the ANJAR cloud (EU, encrypted) once you sign in, and come back on a new phone; receipts photographed sideways or upside down are read; the sign-in screen only offers what is switched on.
 New in 0.3.65: the Talk button no longer switches the microphone off and on (one quiet retry, then "Tap to talk again"); the phone receptionist (Sekretarka) answers the second turn of a call instead of going to voicemail.
 New in 0.3.64: the natural voice keeps one voice for the whole reply (no more switching voices or languages after the first sentence).
 New in 0.3.63: the owner's own phone is not sent to voicemail after three test calls a day.
