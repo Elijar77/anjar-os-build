@@ -3,7 +3,10 @@
 Download link that always has the newest test build (the same link as before):
 https://github.com/Elijar77/anjar-os-build/raw/portal-app/ANJAR-Portal-0.3.54.apk
 
-Newest test build: version 0.3.77, Android versionCode 103, nine languages, built from commit 86a000e.
+Newest test build: version 0.3.80, Android versionCode 106, nine languages, built from commit b4fba2d.
+New in 0.3.80: the social notification switches work (likes and comments from your Facebook page and Instagram once connected; post published / failed once Buffer is connected); each says what it waits for.
+New in 0.3.79: plain words everywhere; notes meant for a lawyer or for us are gone from the screens; Polish mistakes fixed.
+New in 0.3.78: one voice at a time (no more two voices at once); Talk uses the fast brain; "New messages" texts work; Automations shows only what really runs; consent record behind a button.
 New in 0.3.77: Settings > Messaging apps: connect your own Telegram now (a code from @BotFather); WhatsApp, Messenger and Instagram show "Coming soon" until ANJAR's Meta app is approved. Messages from connected apps appear in Sekretarka; ANJAR can write a reply, and nothing is sent until you press Send and confirm.
 New in 0.3.76: Sekretarka call history kept for 1, 6 or 12 months (you choose in Sekretarka settings; 6 by default), then deleted automatically; "Show older calls" on the call list; callers hear the period at the start of the call.
 New in 0.3.75: Easy ANJAR (the accessible mode) is light: dark text on cream, white buttons, no more all-black screens; Settings no longer lists every voice the phone has; the Polish voice line reads "Dane głosu dla języka polskiego".
@@ -11,7 +14,7 @@ New in 0.3.74: one press of Talk is one question (no more microphone on/off tone
 New in 0.3.72: Talk no longer hears its own answer.
 New in 0.3.71: Easy ANJAR, the accessible mode, chosen on the second screen after installing.
 New in 0.3.70: the desk brain depends on the plan, and replies are faster and cheaper.
-New in 0.3.68: every test build from now on is signed with the same key, so it installs over the last one and keeps your data. If you are on 0.3.68 or later, 0.3.77 installs over it with no uninstall; on anything older, uninstall the old app once first.
+New in 0.3.68: every test build from now on is signed with the same key, so it installs over the last one and keeps your data. If you are on 0.3.68 or later, 0.3.80 installs over it with no uninstall; on anything older, uninstall the old app once first.
 New in 0.3.66: the books (Księgi) are backed up to your account in the ANJAR cloud (EU, encrypted) once you sign in, and come back on a new phone; receipts photographed sideways or upside down are read; the sign-in screen only offers what is switched on.
 New in 0.3.65: the Talk button no longer switches the microphone off and on (one quiet retry, then "Tap to talk again"); the phone receptionist (Sekretarka) answers the second turn of a call instead of going to voicemail.
 New in 0.3.64: the natural voice keeps one voice for the whole reply (no more switching voices or languages after the first sentence).
@@ -23,9 +26,9 @@ New in 0.3.59: the natural voice comes from a faster engine (ElevenLabs) where i
 New in 0.3.57: the natural voice. Settings > Voice > Natural voice: one switch makes Anjar read replies in a warm, human-sounding
 AI voice in all nine languages instead of the phone's built-in voice. Also in this build (0.3.56): radio and music apps by voice
 ("Anjar, play Capital FM", "play Adele on Spotify", "open YouTube", "stop the radio"; the radio keeps playing with the screen off).
-The same file is also at `ANJAR-Portal-0.3.77.apk`. Earlier builds stay at `ANJAR-Portal-0.3.76.apk`, `ANJAR-Portal-0.3.75.apk`, `ANJAR-Portal-0.3.68.apk`, `ANJAR-Portal-0.3.66.apk`, `ANJAR-Portal-0.3.65.apk`, `ANJAR-Portal-0.3.64.apk`, `ANJAR-Portal-0.3.63.apk`, `ANJAR-Portal-0.3.62.apk`, `ANJAR-Portal-0.3.61.apk`, `ANJAR-Portal-0.3.60.apk`, `ANJAR-Portal-0.3.59.apk`, `ANJAR-Portal-0.3.58.apk`, `ANJAR-Portal-0.3.57.apk`, `ANJAR-Portal-0.3.56.apk` and `ANJAR-Portal-0.3.55.apk`.
+The same file is also at `ANJAR-Portal-0.3.80.apk`. Earlier builds stay at `ANJAR-Portal-0.3.77.apk`, `ANJAR-Portal-0.3.76.apk`, `ANJAR-Portal-0.3.75.apk`, `ANJAR-Portal-0.3.68.apk`, `ANJAR-Portal-0.3.66.apk`, `ANJAR-Portal-0.3.65.apk`, `ANJAR-Portal-0.3.64.apk`, `ANJAR-Portal-0.3.63.apk`, `ANJAR-Portal-0.3.62.apk`, `ANJAR-Portal-0.3.61.apk`, `ANJAR-Portal-0.3.60.apk`, `ANJAR-Portal-0.3.59.apk`, `ANJAR-Portal-0.3.58.apk`, `ANJAR-Portal-0.3.57.apk`, `ANJAR-Portal-0.3.56.apk` and `ANJAR-Portal-0.3.55.apk`.
 (The file name of the old link stays 0.3.54 so the link keeps working; check Settings > About for the real version.)
 It installs as an update over the earlier test builds (same key, higher versionCode).
 It is signed with a test key, not the Play Store key. Share it with testers only.
 
-The live server runs anjar-portal-v2 0.3.77.
+The live server runs anjar-portal-v2 0.3.80.
